@@ -3,3 +3,4 @@
  - ch03 : 영화 예매 프로그램을 통한 단일 책임, OCP, 팩토리 패턴
  - ch04 : 명령-쿼리
  - [ch05 : ServiceLocator 패턴](https://github.com/SIOUkoeran/studyOOP/blob/main/src/ch05/ch05.md)
+ - [ch06 : 상속](https://github.com/SIOUkoeran/studyOOP/blob/main/src/ch06/ch06.md)
