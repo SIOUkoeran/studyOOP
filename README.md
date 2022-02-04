@@ -4,3 +4,4 @@
  - ch04 : 명령-쿼리
  - [ch05 : ServiceLocator 패턴](https://github.com/SIOUkoeran/studyOOP/blob/main/src/ch05/ch05.md)
  - [ch06 : 상속](https://github.com/SIOUkoeran/studyOOP/blob/main/src/ch06/ch06.md)
+ - [ch-7 : 합성](https://github.com/SIOUkoeran/studyOOP/blob/main/src/ch07%ED%95%A9%EC%84%B1/ch07.md)
